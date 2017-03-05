@@ -70,7 +70,7 @@ jira:
 #    services: ["sample-repo", "test"]
 #  hidden: [form, description]
     
-Slack
+#Slack
 messaging:
   service_id: slack
   include: slack.yml
